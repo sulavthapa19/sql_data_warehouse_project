@@ -1,4 +1,4 @@
-## SQL Server Data Warehouse and Analytics Project
+## Data Warehouse and Analytics Project
 
 This project demonstrates the end-to-end development of a data warehouse using SQL Server. It covers the full process of working with data from multiple sources, preparing it for analysis, and generating insights that support business decision-making. The project was created as a portfolio to showcase practical skills in data engineering and analytics.
 

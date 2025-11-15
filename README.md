@@ -31,7 +31,7 @@ Develop SQL-based analysis to highlight key business metrics and performance tre
 -- **Sales trends and patterns**
 
 ### About Me 
-I'm Sulav Thapa, an IT engineer with a strong interest in data engineering and analytics. I enjoy working with data, building simple data solutions, and developing practical skills in SQL and cloud technologies. 
+I'm **Sulav Thapa**, an IT engineer with a strong interest in data engineering and analytics. I enjoy working with data, building simple data solutions, and developing practical skills in SQL and cloud technologies. 
 
 
 

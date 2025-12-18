@@ -4,6 +4,7 @@ This project demonstrates the end-to-end development of a data warehouse using S
 
 ## Requirements
 **Objective**:
+
 Develop a SQL Server–based data warehouse that consolidates sales data from separate operational systems and organizes it for analytical use.
 
 ## Specifications

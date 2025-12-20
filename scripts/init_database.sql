@@ -3,15 +3,15 @@
 Create Database and Schemas
 =============================================================
 Script Summary:
-    This script checks whether a database named 'DataWarehouse' already exists. 
-    If it does, the database is removed and then recreated. After the database 
-    is created, three schemas are added: 'bronze', 'silver', and 'gold'.
+    - Checks if a database named 'DataWarehouse' already exists.
+    - Drops the database if it exists and recreates it.
+    - Creates the schemas: bronze, silver, and gold.
 
 WARNING:
-    Executing this script will remove the entire 'DataWarehouse' database if it 
-    is already present. All existing data will be permanently lost. Use this 
-    script only when you are certain and ensure that any necessary backups are 
-    in place before proceeding.
+    - Executing this script will delete the entire 'DataWarehouse' database if it exists.
+    - All existing data will be permanently lost.
+    - Ensure required backups are taken before running this script.
+
 */
 
 USE master;
